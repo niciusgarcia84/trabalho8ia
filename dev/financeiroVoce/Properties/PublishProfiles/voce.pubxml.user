@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\OneDrive\desktopecco\deploy</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="admContas.aspx">
+      <publishTime>10/28/2015 10:24:30</publishTime>
+    </File>
+    <File Include="admin.aspx">
+      <publishTime>08/19/2015 19:33:20</publishTime>
+    </File>
+    <File Include="App_Themes/Theme1/style.css">
+      <publishTime>03/15/2016 10:16:04</publishTime>
+    </File>
+    <File Include="arquetipos.aspx">
+      <publishTime>10/02/2019 17:40:40</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>01/24/2013 14:51:16</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.pdb">
+      <publishTime>01/24/2013 14:51:16</publishTime>
+    </File>
+    <File Include="bin/financeiroVoce.DataLayer.dll">
+      <publishTime>03/14/2020 20:37:51</publishTime>
+    </File>
+    <File Include="bin/financeiroVoce.DataLayer.pdb">
+      <publishTime>03/14/2020 20:37:51</publishTime>
+    </File>
+    <File Include="bin/financeiroVoce.dll">
+      <publishTime>03/14/2020 20:37:51</publishTime>
+    </File>
+    <File Include="bin/financeiroVoce.pdb">
+      <publishTime>03/14/2020 20:37:51</publishTime>
+    </File>
+    <File Include="CadastroClassificacaoFinanceira.aspx">
+      <publishTime>08/29/2017 22:50:04</publishTime>
+    </File>
+    <File Include="CadastroEquipes.aspx">
+      <publishTime>12/06/2017 16:58:38</publishTime>
+    </File>
+    <File Include="CadastroFornecedores.aspx">
+      <publishTime>04/06/2018 10:42:40</publishTime>
+    </File>
+    <File Include="cadastroProdutoGerenciar.aspx">
+      <publishTime>09/03/2017 14:03:34</publishTime>
+    </File>
+    <File Include="CadastroProdutosExcluidos.aspx">
+      <publishTime>08/30/2017 20:23:06</publishTime>
+    </File>
+    <File Include="CadastroTabela.aspx">
+      <publishTime>02/27/2017 18:50:40</publishTime>
+    </File>
+    <File Include="CadastroTipoTreinamento.aspx">
+      <publishTime>02/27/2017 19:10:12</publishTime>
+    </File>
+    <File Include="CadastroTreinamentos.aspx">
+      <publishTime>02/27/2017 13:47:16</publishTime>
+    </File>
+    <File Include="CadastroTreinandos.aspx">
+      <publishTime>04/15/2018 19:22:54</publishTime>
+    </File>
+    <File Include="ChequesDevolvidos.aspx">
+      <publishTime>03/28/2016 19:33:36</publishTime>
+    </File>
+    <File Include="ChequesDevolvidosInteracoes.aspx">
+      <publishTime>10/18/2015 13:19:48</publishTime>
+    </File>
+    <File Include="ChequesDevolvidosRecuperados.aspx">
+      <publishTime>10/20/2015 20:22:04</publishTime>
+    </File>
+    <File Include="ChequesDevolvidosRelatorio.aspx">
+      <publishTime>10/23/2015 09:44:50</publishTime>
+    </File>
+    <File Include="ChequesPorTreinamentos.aspx">
+      <publishTime>11/12/2017 17:35:32</publishTime>
+    </File>
+    <File Include="Compras.aspx">
+      <publishTime>04/06/2018 10:05:36</publishTime>
+    </File>
+    <File Include="ComprasFinalizadas.aspx">
+      <publishTime>09/20/2017 15:03:52</publishTime>
+    </File>
+    <File Include="ContasAPagar.aspx">
+      <publishTime>10/02/2019 17:30:04</publishTime>
+    </File>
+    <File Include="ContasAReceber.aspx">
+      <publishTime>06/01/2018 09:57:38</publishTime>
+    </File>
+    <File Include="ContasPagas.aspx">
+      <publishTime>04/06/2018 10:06:10</publishTime>
+    </File>
+    <File Include="contaspagasresumo.aspx">
+      <publishTime>03/06/2018 18:21:16</publishTime>
+    </File>
+    <File Include="ContasRecebidas.aspx">
+      <publishTime>04/06/2018 09:45:38</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>10/17/2017 22:00:32</publishTime>
+    </File>
+    <File Include="DetalhesFinanceirosTreinamento.aspx">
+      <publishTime>03/15/2019 08:45:38</publishTime>
+    </File>
+    <File Include="equipesDiamonds.aspx">
+      <publishTime>02/28/2017 19:50:14</publishTime>
+    </File>
+    <File Include="Estoque.aspx">
+      <publishTime>08/30/2015 14:22:42</publishTime>
+    </File>
+    <File Include="EstoqueGerenciar.aspx">
+      <publishTime>09/03/2017 13:42:26</publishTime>
+    </File>
+    <File Include="historicoEstoque.aspx">
+      <publishTime>09/01/2017 22:34:08</publishTime>
+    </File>
+    <File Include="images/alterar.jpg">
+      <publishTime>08/23/2013 23:30:08</publishTime>
+    </File>
+    <File Include="images/atualizar.jpg">
+      <publishTime>04/01/2014 19:58:08</publishTime>
+    </File>
+    <File Include="images/cadAberto.jpg">
+      <publishTime>08/26/2015 19:19:14</publishTime>
+    </File>
+    <File Include="images/cadAbertoMini.png">
+      <publishTime>09/15/2015 12:51:32</publishTime>
+    </File>
+    <File Include="images/cadFechado.jpg">
+      <publishTime>08/26/2015 19:19:10</publishTime>
+    </File>
+    <File Include="images/cadFechadoMini.png">
+      <publishTime>09/15/2015 12:50:46</publishTime>
+    </File>
+    <File Include="images/cancelar.png">
+      <publishTime>08/23/2013 23:42:58</publishTime>
+    </File>
+    <File Include="images/editar.jpg">
+      <publishTime>08/19/2015 19:03:38</publishTime>
+    </File>
+    <File Include="images/email.png">
+      <publishTime>08/31/2015 17:07:44</publishTime>
+    </File>
+    <File Include="images/excluir.png">
+      <publishTime>08/23/2013 23:43:08</publishTime>
+    </File>
+    <File Include="images/excluirpq.png">
+      <publishTime>01/24/2016 16:35:46</publishTime>
+    </File>
+    <File Include="images/imprimir.png">
+      <publishTime>10/14/2013 20:02:54</publishTime>
+    </File>
+    <File Include="images/imprimir3.png">
+      <publishTime>04/05/2016 18:58:36</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>08/23/2013 13:47:46</publishTime>
+    </File>
+    <File Include="images/mais.png">
+      <publishTime>08/31/2013 11:04:14</publishTime>
+    </File>
+    <File Include="images/maispq.png">
+      <publishTime>06/25/2015 19:31:52</publishTime>
+    </File>
+    <File Include="images/menu.jpg">
+      <publishTime>08/19/2015 19:09:34</publishTime>
+    </File>
+    <File Include="images/ok.png">
+      <publishTime>08/23/2013 23:43:14</publishTime>
+    </File>
+    <File Include="images/salvar.jpg">
+      <publishTime>08/11/2015 21:16:26</publishTime>
+    </File>
+    <File Include="importarTreinandos.aspx">
+      <publishTime>03/14/2020 20:29:10</publishTime>
+    </File>
+    <File Include="ImprimirCompras.aspx">
+      <publishTime>04/09/2015 18:25:06</publishTime>
+    </File>
+    <File Include="imprimirGrupoDiamond.aspx">
+      <publishTime>04/11/2016 19:20:00</publishTime>
+    </File>
+    <File Include="imprimirRecepcaoDiamond.aspx">
+      <publishTime>04/11/2016 19:33:54</publishTime>
+    </File>
+    <File Include="localizarCheque.aspx">
+      <publishTime>09/04/2015 18:37:14</publishTime>
+    </File>
+    <File Include="montarDiamond.aspx">
+      <publishTime>02/27/2017 19:29:22</publishTime>
+    </File>
+    <File Include="Planilhas.aspx">
+      <publishTime>10/17/2017 22:50:00</publishTime>
+    </File>
+    <File Include="relBloqueio.aspx">
+      <publishTime>09/01/2017 21:34:46</publishTime>
+    </File>
+    <File Include="relComissao.aspx">
+      <publishTime>01/24/2016 15:35:52</publishTime>
+    </File>
+    <File Include="relComissaoNovo.aspx">
+      <publishTime>02/12/2018 19:45:42</publishTime>
+    </File>
+    <File Include="relComissaoNovoTodos.aspx">
+      <publishTime>05/02/2016 19:05:10</publishTime>
+    </File>
+    <File Include="relTreinamento.aspx">
+      <publishTime>03/15/2019 08:10:44</publishTime>
+    </File>
+    <File Include="relTreinamentoEmAberto.aspx">
+      <publishTime>11/29/2017 14:55:24</publishTime>
+    </File>
+    <File Include="relTreinamentoPorEquipe.aspx">
+      <publishTime>12/12/2017 11:58:58</publishTime>
+    </File>
+    <File Include="relTreinamentoPorEquipeEmail.aspx">
+      <publishTime>12/12/2017 12:25:52</publishTime>
+    </File>
+    <File Include="relVendas.aspx">
+      <publishTime>09/23/2015 09:10:36</publishTime>
+    </File>
+    <File Include="ResumoAPagar.aspx">
+      <publishTime>09/21/2015 20:47:52</publishTime>
+    </File>
+    <File Include="ResumoAReceber.aspx">
+      <publishTime>01/28/2016 12:15:08</publishTime>
+    </File>
+    <File Include="resumoFinanceiro.aspx">
+      <publishTime>09/22/2015 13:28:02</publishTime>
+    </File>
+    <File Include="ResumoPagasTerceiros.aspx">
+      <publishTime>09/21/2015 20:48:58</publishTime>
+    </File>
+    <File Include="resumoVendas.aspx">
+      <publishTime>08/03/2017 16:17:32</publishTime>
+    </File>
+    <File Include="Saidas.aspx">
+      <publishTime>09/01/2017 22:26:34</publishTime>
+    </File>
+    <File Include="SaidasKit.aspx">
+      <publishTime>02/18/2014 21:03:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/05/2017 16:32:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

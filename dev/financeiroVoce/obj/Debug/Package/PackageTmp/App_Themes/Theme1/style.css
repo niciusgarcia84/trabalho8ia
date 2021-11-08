@@ -1,0 +1,97 @@
+﻿body
+{
+	color:Gray;
+	font-family:Tahoma;
+	font-size:medium;
+}
+a
+{
+	text-decoration:none;
+	color:Gray;
+}
+a:hover
+{
+	text-decoration:underline;
+	color:Teal;
+}
+a:visited
+{
+	text-decoration:underline;
+	color:Teal;
+}
+h1
+{
+	font-weight:bold;
+	color:Teal;
+	font-size:x-large;
+}
+h2
+{
+	color:Teal;
+	font-size:large;
+}
+.divFundo
+{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: Black;
+	z-index: 1;
+	display: none;
+	padding:20px 20px 20px 20px;
+}
+#fundo
+{
+	position: absolute;
+	width: 2000px;
+	margin-top: -10px;
+	margin-left: -10px;
+	height: 3000px;
+	background-color: Black;
+	opacity: 0.80;
+	filter: alpha(opacity=80);
+	z-index: 6;
+}
+#internoHome
+{
+	position: absolute;
+	margin-left: 35%;
+	margin-top: 30px;
+	padding: 10px;
+	width: 400px;
+	background-color: White;
+	color: Black;
+	z-index: 7;
+}
+#fundoDiamond
+{
+	position: absolute;
+	width: 2000px;
+	margin-top: -10px;
+	margin-left: -10px;
+	height: 3000px;
+	background-color: Black;
+	z-index: 6;
+}
+.internoDiamond
+{
+	position: absolute;
+	margin-left: 37%;
+	margin-top: 80px;
+	padding: 10px;
+	width: 300px;
+	background-color: White;
+	color: Black;
+	z-index: 7;
+}
+#internoCobranca
+{
+	position: absolute;
+	margin-left: 15%;
+	margin-top: 30px;
+	padding: 10px;
+	width: 800px;
+	background-color: White;
+	color: Black;
+	z-index: 7;
+}
