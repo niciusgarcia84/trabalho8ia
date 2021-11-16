@@ -116,3 +116,13 @@ C:\Users\niciu\OneDrive\Desenvolvimento\trabalho8ia\financeiroVoce\obj\Debug\fin
 C:\Users\niciu\OneDrive\Desenvolvimento\trabalho8ia\financeiroVoce\obj\Debug\financeiroVoce.WebLayer.csproj.CoreCompileInputs.cache
 C:\Users\niciu\OneDrive\Desenvolvimento\trabalho8ia\financeiroVoce\obj\Debug\financeiroVoce.dll
 C:\Users\niciu\OneDrive\Desenvolvimento\trabalho8ia\financeiroVoce\obj\Debug\financeiroVoce.pdb
+E:\github\trabalho8ia\dev\financeiroVoce\bin\financeiroVoce.dll.config
+E:\github\trabalho8ia\dev\financeiroVoce\bin\financeiroVoce.dll
+E:\github\trabalho8ia\dev\financeiroVoce\bin\financeiroVoce.pdb
+E:\github\trabalho8ia\dev\financeiroVoce\bin\financeiroVoce.DataLayer.dll
+E:\github\trabalho8ia\dev\financeiroVoce\bin\financeiroVoce.DataLayer.pdb
+E:\github\trabalho8ia\dev\financeiroVoce\bin\AjaxControlToolkit.pdb
+E:\github\trabalho8ia\dev\financeiroVoce\obj\Debug\financeiroVoce.WebLayer.csproj.AssemblyReference.cache
+E:\github\trabalho8ia\dev\financeiroVoce\obj\Debug\financeiroVoce.WebLayer.csproj.CoreCompileInputs.cache
+E:\github\trabalho8ia\dev\financeiroVoce\obj\Debug\financeiroVoce.dll
+E:\github\trabalho8ia\dev\financeiroVoce\obj\Debug\financeiroVoce.pdb
